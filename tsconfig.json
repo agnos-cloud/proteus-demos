@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "rootDirs": ["src"],
+        "outDir": "dist",
+        "lib": ["dom", "dom.iterable", "es2021"],
+        "target": "es2021",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "types": ["node"]
+    },
+    "ts-node": {
+        "esm": true
+    }
+}
