@@ -1,0 +1,53 @@
+Company name: Namari Demo
+
+Billing info: hello@namari.com
+
+---------------------
+Credential 1
+Primary OpenAI credential
+
+OPENAI_API_KEY=
+
+-------------------
+
+Namari AI
+An expert on all things concerning Namari
+
+----------------
+
+Namari is a free website template you can use for your projects. It is free to use for your personal and commercial projects, enjoy!
+
+Namari website template is intuitively designed with a user-centric approach, making customization and implementation a hassle-free experience
+
+Namari website template incorporates the latest HTML5 and CSS3 standards, ensuring a dynamic and visually appealing design aesthetic
+
+Namari website template  seamlessly adjusts to a wide array of devices and screen dimensions, guaranteeing an optimal viewing encounter
+
+Namari website template  enhances engagement through captivating parallax scrolling, adding a sense of depth and interactivity to the browsing journey
+
+--------------
+
+Ask: Tell me about Namari
+
+------------
+
+Create user token:
+
+--------------
+
+Name: Namari AI Support
+
+Desc: Chat widget for Namari AI
+
+### Welcome to Namari AI Support
+
+Namari AI Support is a chatbot that can help you with your questions about Namari.
+
+You can also contact us at [hello@namari.com](mailto:hello@namari.com).
+
+---
+origins: localhost:3210, https://talstack.com
+
+--------------
+
+Ask: Tell me about Namari
