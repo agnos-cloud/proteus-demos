@@ -10,6 +10,10 @@ async function main() {
         res.send("Hello World");
     });
 
+    app.get("/momo", function(req,res) {
+        res.sendFile(path.join(__dirname, "../public/momo.html"));
+    });
+
     app.get("/namari", function(req,res) {
         res.sendFile(path.join(__dirname, "../public/namari/index.html"));
     });
