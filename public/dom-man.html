@@ -404,7 +404,7 @@
                     if (typeof data === 'string') {
                         const parsedData = JSON.parse(data);
                         if (parsedData.func === 'changeBackgroundColor') {
-                            changeBackgroundColor(parsedData.arg || 'white');
+                            changeBackgroundColor(parsedData.args || 'white');
                         }
                     }
                 } catch (error) {
