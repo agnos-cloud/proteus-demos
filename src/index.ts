@@ -153,6 +153,10 @@ async function main() {
         res.sendFile(path.join(__dirname, "../public/namari/js/wow.min.js"));
     });
 
+    app.get("/omk", function(req,res) {
+        res.sendFile(path.join(__dirname, "../public/omk.html"));
+    });
+
     app.get("/talstack", function(req,res) {
         res.sendFile(path.join(__dirname, "../public/talstack.html"));
     });
